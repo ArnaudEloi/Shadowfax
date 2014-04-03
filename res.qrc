@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon.png</file>
+        <file>calendar.png</file>
+        <file>1left.png</file>
+        <file>1new.png</file>
+        <file>1right.png</file>
+        <file>1accept.png</file>
+        <file>active.png</file>
+        <file>desactive.png</file>
+        <file>1oust.png</file>
+        <file>1back.jpg</file>
+        <file>add.png</file>
+        <file>edit.png</file>
+    </qresource>
+    <qresource prefix="/list">
+        <file>blue.png</file>
+        <file>green.png</file>
+        <file>red.png</file>
+        <file>yellow.png</file>
+        <file>backlist.png</file>
+    </qresource>
+</RCC>

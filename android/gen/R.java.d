@@ -1,0 +1,27 @@
+/home/arnaud/Shadowfax/android/gen/org/qtproject/example/Shadowfax/R.java \
+ : /home/arnaud/Shadowfax/android/res/values-el/strings.xml \
+/home/arnaud/Shadowfax/android/res/drawable-hdpi/icon.png \
+/home/arnaud/Shadowfax/android/res/values-ms/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-rs/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-et/strings.xml \
+/home/arnaud/Shadowfax/android/res/drawable-ldpi/icon.png \
+/home/arnaud/Shadowfax/android/res/values/strings.xml \
+/home/arnaud/Shadowfax/android/res/values/libs.xml \
+/home/arnaud/Shadowfax/android/res/values-nb/strings.xml \
+/home/arnaud/Shadowfax/android/res/drawable-mdpi/icon.png \
+/home/arnaud/Shadowfax/android/res/values-nl/strings.xml \
+/home/arnaud/Shadowfax/android/res/layout/splash.xml \
+/home/arnaud/Shadowfax/android/res/values-pt-rBR/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-ja/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-de/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-pl/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-zh-rCN/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-fa/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-fr/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-it/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-zh-rTW/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-ro/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-id/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-es/strings.xml \
+/home/arnaud/Shadowfax/android/res/values-ru/strings.xml \
+/home/arnaud/Shadowfax/android/bin/AndroidManifest.xml \
